@@ -1,0 +1,5 @@
+{
+  "name": "MingHwe Detailed - Business Process Workflow Visualizer",
+  "description": "An interactive application to visualize complex business process workflows for different roles and regions, including employer, candidate, and admin journeys.",
+  "requestFramePermissions": []
+}
